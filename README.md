@@ -1,5 +1,7 @@
 # PS-Flux
 
+React flux web application. This is a basic starter application to explore the features of ReactJs
+
 ## Web application using React and Flux
 
 ### How to start
